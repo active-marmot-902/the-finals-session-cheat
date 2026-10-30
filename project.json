@@ -1,0 +1,22 @@
+{
+  "name": "the-finals-session-toolkit",
+  "displayName": "The Finals Session Toolkit",
+  "programType": "session-toolkit",
+  "repositoryContents": "Project documentation and artwork",
+  "downloadPage": "https://meteoric-rook-835.github.io/",
+  "descriptionSource": "Project owner",
+  "sections": [
+    "Loadout notes",
+    "Arena references",
+    "Session records"
+  ],
+  "topics": [
+    "the-finals-session-toolkit",
+    "the-finals-tools",
+    "the-finals-menu",
+    "the-finals-settings",
+    "the-finals-configs",
+    "the-finals-loadout-notes",
+    "the-finals-arena-references"
+  ]
+}
